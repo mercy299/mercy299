@@ -14,5 +14,3 @@ I'm a Software Engineer and student who currently studies cloud engineering in A
 - 📫 You can [view my resume](#) and contact me by emailing mercysam299@gmail.com.
 
 ---
-
-| ------------- | ------------- |
