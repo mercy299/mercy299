@@ -7,8 +7,7 @@ I am a Software Engineer and a graduate of cloud engineering in AltSchool Africa
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: She/Her
-- 🌱 I’m currently learning JavaScript
-- 😊 I’m looking for help with open-source projects, hackathons, internships, and entry-level opportunities.
+- 😊 I’m looking for help with open-source projects, hackathons, internships, and Junior-level opportunities.
 - 💼 Job interests: Frontend Engineer (Intern) and cloud engineer (Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing mercysam299@gmail.com.
 
