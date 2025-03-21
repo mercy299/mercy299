@@ -10,7 +10,7 @@ I am a Software Engineer and a graduate of cloud engineering in AltSchool Africa
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning JavaScript
 - 😊 I’m looking for help with open-source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Front Engineer and cloud engineer (Intern or Junior level).
+- 💼 Job interests: Front Engineer and cloud engineer (Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing mercysam299@gmail.com.
 
 ---
